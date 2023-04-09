@@ -1,0 +1,27 @@
+body {
+    background-color: var(--syellow);
+}
+
+@font-face {
+    font-family: main-font;
+    src: url(../assets/fonts/KalamehWeb_Black.woff2);
+    src: url(../assets/fonts/KalamehWeb_Bold.woff2);
+    src: url(../assets/fonts/KalamehWeb_Regular.woff2);
+    src: url(../assets/fonts/KalamehWeb_thin.woff2);
+    font-weight: bold;
+}
+
+* {
+    font-family: main-font;
+}
+/* start header section  */
+a {
+    text-decoration: none;
+}
+li {
+    list-style: none;
+}
+/* start header section  */
+/* start navbar section */
+
+
